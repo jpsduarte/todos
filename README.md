@@ -1,6 +1,6 @@
 # todos
 
-A new Flutter project.
+A Flutter + Firebase project.
 
 ## Getting Started
 
